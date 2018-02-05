@@ -14,6 +14,9 @@ Curated resources about the Pony programming language, learning resources for it
    * [Borrowing in Pony](https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html)
    * [Exploring actors in Pony](https://bluishcoder.co.nz/2016/05/11/exploring-actors-in-pony.html)
 
+## Pony community and history
+* [An Early History of Pony](https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/) by [Sylvan Clebsch](https://github.com/sylvanc) and [Sean Allen](https://twitter.com/SeanTAllen).  Discusses the origins of Pony and what prompted its creation.
+
 ## Folks who tweet interesting things about Pony
 * [Sean T Allen](https://twitter.com/SeanTAllen) - VP of Engineering at [Wallaroo Labs](https://www.wallaroolabs.com/) and one of the early contributors to Pony.
 

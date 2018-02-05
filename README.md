@@ -8,7 +8,13 @@ Curated resources about the Pony programming language, learning resources for it
 ## Interesting Pony libraries
 * [pony-kafka](https://github.com/WallarooLabs/pony-kafka) - Pure pony implementation of an [Apache Kafka](https://kafka.apache.org/) client.  Currently supports many, but not all features of the Scala/Java client maintained by the ASF project.
 
-## Community leaders
+## Tutorials and focused blog posts
+* [Chris Double](https://twitter.com/doublec) maintains an [excellent blog](https://bluishcoder.co.nz/index.html) that covers lots of programming languages and has an excellent collection of [Pony posts](https://bluishcoder.co.nz/tags/pony/index.html), including (but not limited to):
+   * [Reference Capabilities, Consume and Recover in Pony](https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html)
+   * [Borrowing in Pony](https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html)
+   * [Exploring actors in Pony](https://bluishcoder.co.nz/2016/05/11/exploring-actors-in-pony.html)
+
+## Folks who tweet interesting things about Pony
 * [Sean T Allen](https://twitter.com/SeanTAllen) - VP of Engineering at [Wallaroo Labs](https://www.wallaroolabs.com/) and one of the early contributors to Pony.
 
 ## Academic Papers

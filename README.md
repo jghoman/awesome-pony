@@ -1,3 +1,4 @@
+[<img src="https://github.com/jghoman/awesome-pony/raw/master/ponylang-logo.jpg" align="right">]
 # awesome-pony
 Curated resources about the Pony programming language, learning resources for it and interesting systems written in it.
 

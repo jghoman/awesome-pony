@@ -1,5 +1,5 @@
 [<img src="https://github.com/jghoman/awesome-pony/raw/master/ponylang-logo.jpg" align="right">](https://www.ponylang.org/)
-# awesome-pony
+# awesome-pony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated resources about the Pony programming language, learning resources for it and interesting systems written in it.
 
 ## Vital links

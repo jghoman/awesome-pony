@@ -21,6 +21,9 @@ Curated resources about the Pony programming language, learning resources for it
 ## Folks who tweet interesting things about Pony
 * [Sean T Allen](https://twitter.com/SeanTAllen) - VP of Engineering at [Wallaroo Labs](https://www.wallaroolabs.com/) and one of the early contributors to Pony.
 
+## Recorded talks
+* [Pony: How I learned to stop worrying and embrace an unproven technology](https://www.infoq.com/presentations/pony-wallaroo) - Sean Allen](https://twitter.com/SeanTAllen) has a brief overview of Pony.  This same material is covered on the official Pony site, but the talk is useful for those that prefer to follow visually.
+
 ## Academic Papers
 * [Ownership and Reference Counting based Garbage Collection in the Actor World](https://www.doc.ic.ac.uk/~scd/icooolps15_GC.pdf) - 
 by Sylvan Clebsch, Sebastian Blessing, Juliana Franco and Sophia Drossopoulou.  This paper describes the ORCA garbage collection scheme the Pony team has developed.  ORCA leverages Pony's concepts of actors and differentiated data sharing.

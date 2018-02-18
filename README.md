@@ -8,6 +8,7 @@ Curated resources about the Pony programming language, learning resources for it
 
 ## Interesting Pony libraries
 * [pony-kafka](https://github.com/WallarooLabs/pony-kafka) - Pure pony implementation of an [Apache Kafka](https://kafka.apache.org/) client.  Currently supports many, but not all features of the Scala/Java client maintained by the ASF project.
+* [ponylang-linal](https://github.com/dougmacdoug/ponylang-linal) - Linear algebra library supporting two- and three-dimensional operations. Under active development.
 
 ## Tutorials and focused blog posts
 * [Chris Double](https://twitter.com/doublec) maintains an [excellent blog](https://bluishcoder.co.nz/index.html) that covers lots of programming languages and has an excellent collection of [Pony posts](https://bluishcoder.co.nz/tags/pony/index.html), including (but not limited to):

@@ -18,6 +18,7 @@ Curated resources about the Pony programming language, learning resources for it
 
 ## Pony community and history
 * [An Early History of Pony](https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/) by [Sylvan Clebsch](https://github.com/sylvanc) and [Sean Allen](https://twitter.com/SeanTAllen).  Discusses the origins of Pony and what prompted its creation.
+* [Message Passing and the Actor Model](http://dist-prog-book.com/chapter/3/message-passing.html) by [Nathaniel Dempkowski](https://twitter.com/natdempk).  While this in-depth article does not deal with Pony directly, it is a good introduction to the actor model paradigm, covering its history and major implementations.
 
 ## Folks who tweet interesting things about Pony
 * [Sean T Allen](https://twitter.com/SeanTAllen) - VP of Engineering at [Wallaroo Labs](https://www.wallaroolabs.com/) and one of the early contributors to Pony.

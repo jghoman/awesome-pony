@@ -25,6 +25,7 @@ Curated resources about the Pony programming language, learning resources for it
 
 ## Recorded talks
 * [Pony: How I learned to stop worrying and embrace an unproven technology](https://www.infoq.com/presentations/pony-wallaroo) - [Sean Allen](https://twitter.com/SeanTAllen) has a brief overview of Pony.  This same material is covered on the official Pony site, but the talk is useful for those that prefer to follow visually.
+* [Why Pony](https://www.youtube.com/watch?v=0XFhTrtOGK4) - Also by [Sean Allen](https://twitter.com/SeanTAllen).  Short talk focused on Pony's concurrency model.  Slides are available [here](https://speakerdeck.com/seantallen/why-pony).
 
 ## Academic Papers
 * [Ownership and Reference Counting based Garbage Collection in the Actor World](https://www.doc.ic.ac.uk/~scd/icooolps15_GC.pdf) - 

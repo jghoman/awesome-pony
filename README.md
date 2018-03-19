@@ -11,6 +11,7 @@ Curated resources about the Pony programming language, learning resources for it
 * [ponylang-linal](https://github.com/dougmacdoug/ponylang-linal) - Linear algebra library supporting two- and three-dimensional operations. Under active development.
 
 ## Tutorials and focused blog posts
+* [How to Train Your Pony](https://paul.lietar.net/2018/03/how-to-train-your-pony-introduction/) - First in a series on Pony's type system by [Paul Liétar](https://twitter.com/lietarp).  This entry covers how Pony prevents data races.
 * [Chris Double](https://twitter.com/doublec) maintains an [excellent blog](https://bluishcoder.co.nz/index.html) that covers lots of programming languages and has an excellent collection of [Pony posts](https://bluishcoder.co.nz/tags/pony/index.html), including (but not limited to):
    * [Reference Capabilities, Consume and Recover in Pony](https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html)
    * [Borrowing in Pony](https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html)

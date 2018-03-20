@@ -24,7 +24,7 @@ Curated resources about the Pony programming language, learning resources for it
 ## Folks who tweet interesting things about Pony
 * [Sean T Allen](https://twitter.com/SeanTAllen) - VP of Engineering at [Wallaroo Labs](https://www.wallaroolabs.com/) and one of the early contributors to Pony.
 
-## Slide Dekcs and Recorded talks
+## Slide Decks and Recorded talks
 * [The Wide World of Actors, or, Can I Have an Erlang Pony?](https://github.com/slfritchie/wide-world-of-actors/blob/master/can-i-have-an-erlang-pony.pdf) - [Scott L. Fritchie](https://twitter.com/slfritchie) has created a deck that compares Pony to another Actor-based language, Erlang and its VM, BEAM.
 * [Pony: How I learned to stop worrying and embrace an unproven technology](https://www.infoq.com/presentations/pony-wallaroo) - [Sean Allen](https://twitter.com/SeanTAllen) has a brief overview of Pony.  This same material is covered on the official Pony site, but the talk is useful for those that prefer to follow visually.
 * [Why Pony](https://www.youtube.com/watch?v=0XFhTrtOGK4) - Also by [Sean Allen](https://twitter.com/SeanTAllen).  Short talk focused on Pony's concurrency model.  Slides are available [here](https://speakerdeck.com/seantallen/why-pony).

@@ -6,6 +6,7 @@ Curated resources about the Pony programming language, learning resources for it
 * [ponylang.org](https://www.ponylang.org/) - Main language and project website.
 * [github](https://github.com/ponylang) - Pony organization github, including the language repo.
 * [mailing list archive](https://pony.groups.io/g/user) - Quick way to join the mailing list or peruse the archives.
+* [Zulip chat](https://ponylang.zulipchat.com/login/) - Chat with users and core developers.
 
 ## Interesting Pony libraries
 * [pony-kafka](https://github.com/WallarooLabs/pony-kafka) - Pure pony implementation of an [Apache Kafka](https://kafka.apache.org/) client.  Currently supports many, but not all features of the Scala/Java client maintained by the ASF project.

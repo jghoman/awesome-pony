@@ -20,6 +20,7 @@ Curated resources about the Pony programming language, learning resources for it
    * [Reference Capabilities, Consume and Recover in Pony](https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html)
    * [Borrowing in Pony](https://bluishcoder.co.nz/2016/07/18/borrowing-in-pony.html)
    * [Exploring actors in Pony](https://bluishcoder.co.nz/2016/05/11/exploring-actors-in-pony.html)
+* [Ponylang Cheatsheet](https://www.ponylang.io/media/cheatsheet/pony-cheat-sheet.pdf) - One page PDF that covers all the core syntax and concepts.
 
 ## Pony community and history
 * [An Early History of Pony](https://www.ponylang.org/blog/2017/05/an-early-history-of-pony/) by [Sylvan Clebsch](https://github.com/sylvanc) and [Sean Allen](https://twitter.com/SeanTAllen).  Discusses the origins of Pony and what prompted its creation.
